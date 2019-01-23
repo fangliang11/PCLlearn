@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PCLlearn.cpp">
+    <ClCompile Include="range_image_visualization.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

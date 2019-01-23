@@ -40,7 +40,7 @@ void viewerPsycho(pcl::visualization::PCLVisualizer& viewer)
 int main()
 {
 	pcl::PointCloud<pcl::PointXYZRGBA>::Ptr cloud(new pcl::PointCloud<pcl::PointXYZRGBA>);
-	pcl::io::loadPCDFile("data\\test.pcd", *cloud);
+	pcl::io::loadPCDFile("D:\\Program Files\\PCL_setup\\pcd_example\\data-master\\tutorials\\table_scene_mug_stereo_textured.pcd", *cloud);
 
 	pcl::visualization::CloudViewer viewer("Cloud Viewer");
 
