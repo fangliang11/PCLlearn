@@ -63,7 +63,7 @@ int main(int argc, char** argv)
 	// 读取./data/rgb.png和./data/depth.png，并转化为点云
 	cv::Mat rgb, depth;
 	rgb = cv::imread("D:\\testData\\left.png");	// rgb 图像是8UC3的彩色图像
-	depth = cv::imread("D:\\testData\\disp_SGBM.png", -1); 	// depth 是16UC1的单通道图像，注意flags设置-1,表示读取原始数据不做任何修改
+	depth = cv::imread("D:\\testData\\disp.png", -1); 	// depth 是16UC1的单通道图像，注意flags设置-1,表示读取原始数据不做任何修改
 	
 	PointCloud::Ptr cloud(new PointCloud);  // 使用智能指针，创建一个空点云。这种指针用完会自动释放。
 
