@@ -6,7 +6,6 @@
 #include <pcl/io/pcd_io.h>
 #include <vtkAutoInit.h>
 
-
 VTK_MODULE_INIT(vtkInteractionStyle);
 VTK_MODULE_INIT(vtkRenderingFreeType);
 VTK_MODULE_INIT(vtkRenderingOpenGL);
@@ -40,7 +39,7 @@ void viewerPsycho(pcl::visualization::PCLVisualizer& viewer)
 int main()
 {
 	pcl::PointCloud<pcl::PointXYZRGBA>::Ptr cloud(new pcl::PointCloud<pcl::PointXYZRGBA>);
-	pcl::io::loadPCDFile("D:\\testData\\tskuPointCloud.pcd", *cloud);
+	pcl::io::loadPCDFile("CupPointCloud.pcd", *cloud);
 
 	pcl::visualization::CloudViewer viewer("Cloud Viewer");
 
