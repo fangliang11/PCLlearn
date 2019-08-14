@@ -1,14 +1,13 @@
 #pragma warning(disable : 4996)
 
+#include "vtkAutoInit.h" 
+VTK_MODULE_INIT(vtkRenderingOpenGL); // VTK was built with vtkRenderingOpenGL2
+VTK_MODULE_INIT(vtkInteractionStyle);
+
 #include <pcl/visualization/cloud_viewer.h>
 #include <iostream>
 #include <pcl/io/io.h>
 #include <pcl/io/pcd_io.h>
-#include <vtkAutoInit.h>
-
-VTK_MODULE_INIT(vtkInteractionStyle);
-VTK_MODULE_INIT(vtkRenderingFreeType);
-VTK_MODULE_INIT(vtkRenderingOpenGL);
 
 int user_data;
 

@@ -9,8 +9,7 @@
 #include <pcl/visualization/pcl_visualizer.h>
 
 // This function displays the help
-void
-showHelp(char * program_name)
+void showHelp(char * program_name)
 {
 	std::cout << std::endl;
 	std::cout << "Usage: " << program_name << " cloud_filename.[pcd|ply]" << std::endl;
@@ -18,8 +17,7 @@ showHelp(char * program_name)
 }
 
 // This is the main function
-int
-main(int argc, char** argv)
+int main(int argc, char** argv)
 {
 
 	// Show help
