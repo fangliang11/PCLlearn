@@ -114,18 +114,20 @@ void CMFCDialogDlg::OnBnClickedOpenpcd()
 		EndName.MakeLower();                     //将文件扩展名转换为一个小写字符
 		std::string filename((LPCTSTR)strFolderPath);
 
-		if (EndName.Compare(_T("pcd")) == 0)
+		if (EndName.Compare(_T("ply")) == 0 || EndName.Compare(_T("pcd")) == 0)
 		{
 			//显示图像
 			if (pcl::io::loadPCDFile<pcl::PointXYZ>(filename, point_cloud) == -1) //* load the file 
 			{
-
+				PCL_ERROR("Couldnot read file.\n");
+				system("pause");
+				return;
 			}
 
 			scene_sensor_pose = Eigen::Affine3f(Eigen::Translation3f(point_cloud.sensor_origin_[0],
 				point_cloud.sensor_origin_[1],
 				point_cloud.sensor_origin_[2])) *
-				Eigen::Affine3f(point_cloud.sensor_orientation_);
+			    Eigen::Affine3f(point_cloud.sensor_orientation_);
 
 			pcl::visualization::PCLVisualizer viewer("", false); //viewer("", false);// ("3D Viewer"); 
 			viewer.setBackgroundColor(0, 0, 0);
@@ -149,7 +151,6 @@ void CMFCDialogDlg::OnBnClickedOpenpcd()
 			InteractionVisualiserWindow->SetRenderWindow(VisualiserWindow);
 			VisualiserWindow->Render();
 			InteractionVisualiserWindow->Render();
-
 
 		}
 		else return;
