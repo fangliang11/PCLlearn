@@ -24,11 +24,8 @@
 #include "vtkRenderer.h" 
 #include "vtkWin32OpenGLRenderWindow.h" 
 #include "vtkWin32RenderWindowInteractor.h" 
-#include <vtkAutoInit.h>
 
-VTK_MODULE_INIT(vtkInteractionStyle);
-VTK_MODULE_INIT(vtkRenderingFreeType);
-VTK_MODULE_INIT(vtkRenderingOpenGL);
+
 
 using namespace pcl;
 

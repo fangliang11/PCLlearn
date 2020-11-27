@@ -1,5 +1,4 @@
-﻿
-// MFCDialogDlg.cpp: 实现文件
+﻿// MFCDialogDlg.cpp: 实现文件
 //
 
 #include "pch.h"
@@ -7,6 +6,11 @@
 #include "MFCDialog.h"
 #include "MFCDialogDlg.h"
 #include "afxdialogex.h"
+
+#include <vtkAutoInit.h>
+VTK_MODULE_INIT(vtkRenderingOpenGL);//Slightly different from the official example, explained below
+VTK_MODULE_INIT(vtkInteractionStyle);
+
 
 //#ifdef _DEBUG
 //#define new DEBUG_NEW
@@ -112,7 +116,7 @@ void CMFCDialogDlg::OnBnClickedOpenpcd()
 		strFolderPath = dlg.GetPathName();     //获取文件路径名   如D:\pic\abc.bmp
 		EndName = dlg.GetFileExt();      //获取文件扩展名
 		EndName.MakeLower();                     //将文件扩展名转换为一个小写字符
-		std::string filename((LPCTSTR)strFolderPath);
+		std::string filename((CT2A)strFolderPath);
 
 		if (EndName.Compare(_T("ply")) == 0 || EndName.Compare(_T("pcd")) == 0)
 		{
@@ -141,10 +145,7 @@ void CMFCDialogDlg::OnBnClickedOpenpcd()
 			vtkRenderWindow* VisualiserWindow = viewer.getRenderWindow();
 			vtkRenderWindowInteractor* InteractionVisualiserWindow = vtkRenderWindowInteractor::New();
 
-			LPRECT rect = new CRect;
-			CStatic* pclStatic = new CStatic();
-			pclStatic = (CStatic*)GetDlgItem(IDC_STATIC);
-			VisualiserWindow->SetParentId(pclStatic->m_hWnd);
+			VisualiserWindow->SetParentId(GetDlgItem(IDC_STATIC));
 			//VisualiserWindow->SetSize(rect->right - rect->left, rect->bottom - rect->top);
 			VisualiserWindow->SetSize(800, 600);
 			VisualiserWindow->SetPosition(10, 10);
@@ -157,7 +158,5 @@ void CMFCDialogDlg::OnBnClickedOpenpcd()
 	}
 	else return;
 
-
-
-
+	//delete point_cloud_ptr;
 }
