@@ -4,10 +4,6 @@
 #include <pcl/io/io.h>
 #include <pcl/io/pcd_io.h>
 
-#include "vtkAutoInit.h" 
-VTK_MODULE_INIT(vtkRenderingOpenGL);
-VTK_MODULE_INIT(vtkInteractionStyle);
-
 
 int user_data;
 

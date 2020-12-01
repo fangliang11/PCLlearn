@@ -10,14 +10,10 @@
 #include <pcl/visualization/cloud_viewer.h>
 #include <pcl/io/io.h>
 #include <pcl/io/pcd_io.h>
-#include <vtkAutoInit.h>
 
 using namespace std;
 using namespace cv;
 
-VTK_MODULE_INIT(vtkInteractionStyle);
-VTK_MODULE_INIT(vtkRenderingFreeType);
-VTK_MODULE_INIT(vtkRenderingOpenGL);
 
 int user_data;
 

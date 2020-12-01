@@ -4,8 +4,18 @@
 #include<fstream>
 #include <string>
 #include <vector>
+//  PCL
+#undef min 
+#undef max 
+#include <pcl/console/parse.h>
+#include <pcl/io/io.h>
 #include <pcl/io/pcd_io.h>
 #include <pcl/point_types.h>
+#include <pcl/common/io.h>
+#include <pcl/visualization/pcl_visualizer.h>
+//  VTK
+#include <vtkRenderWindow.h>
+#include <vtkRenderWindowInteractor.h>
 
 using namespace std;
 
