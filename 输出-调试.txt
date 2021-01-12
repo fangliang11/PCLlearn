@@ -1,0 +1,403 @@
+﻿Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+“CloudPointDisplayQt.exe”(Win32): 已加载“E:\Projects\VisualStudioProjects\PCLlearn\x64\Release\CloudPointDisplayQt.exe”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\advapi32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\msvcrt.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\sechost.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\ucrtbase.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\shell32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\msvcp_win.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\user32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\bin\Qt5Core.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\win32u.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\gdi32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\bin\Qt5Widgets.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\gdi32full.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\PCL_09\pcl_install\release\bin\pcl_common_release.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\ws2_32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\ole32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\ole32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\ole32.dll”
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\combase.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\PCL_09\pcl_install\release\bin\pcl_visualization_release.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\PCL_09\pcl_install\release\bin\pcl_io_release.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkCommonDataModel-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkCommonCore-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkGUISupportQt-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkCommonMath-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkInteractionStyle-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkRenderingCore-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\msvcp140.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\mpr.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\userenv.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\version.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\netapi32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\uxtheme.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkRenderingOpenGL2-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\dwmapi.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\winmm.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\bin\Qt5Gui.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkRenderingContextOpenGL2-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\PCL_09\pcl_install\release\bin\pcl_kdtree_release.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkIOPLY-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkViewsContext2D-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\PCL_09\pcl_install\release\bin\pcl_io_ply_release.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkRenderingLOD-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkRenderingGL2PSOpenGL2-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkChartsCore-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkRenderingContext2D-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\OpenNI2\Tools\OpenNI2.dll”。已加载符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkInteractionWidgets-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkIOGeometry-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkIOLegacy-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkRenderingAnnotation-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkImagingSources-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkIOCore-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkRenderingFreeType-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkImagingCore-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkCommonColor-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkIOImage-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkFiltersExtraction-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkFiltersModeling-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkCommonExecutionModel-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkFiltersSources-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkFiltersGeneral-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkFiltersCore-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkCommonTransforms-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkCommonMisc-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkCommonSystem-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtksys-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\psapi.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkFiltersGeometry-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkCommonComputationalGeometry-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140_1.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\opengl32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkglew-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\d3d11.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\dxgi.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\PCL_all_in_one_09\3rdParty\FLANN\bin\flann.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkViewsCore-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkgl2ps-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkInfovisCore-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\msvcr100.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkFiltersHybrid-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkImagingGeneral-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkImagingHybrid-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkzlib-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkImagingColor-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtklzma-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkdoubleconversion-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtklz4-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkfreetype-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkpng-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkDICOMParser-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkmetaio-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtktiff-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkjpeg-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkFiltersStatistics-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\glu32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\netutils.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\vcomp140.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\wsock32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\srvcli.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\cryptbase.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files\VTK-8.2.0\VTK-install\release\bin\vtkImagingFourier-8.2.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\imm32.dll”。无法查找或打开 PDB 文件。
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\SHCore.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\plugins\platforms\qwindows.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\oleaut32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\wtsapi32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\kernel.appcore.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\bcryptprimitives.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\windows.storage.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\wldp.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\shlwapi.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\profapi.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\powrprof.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\umpdc.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\plugins\styles\qwindowsvistastyle.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\plugins\imageformats\qgif.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\plugins\imageformats\qicns.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\plugins\imageformats\qico.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\plugins\imageformats\qjpeg.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\plugins\imageformats\qsvg.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\bin\Qt5Svg.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\plugins\imageformats\qtga.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\plugins\imageformats\qtiff.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\plugins\imageformats\qwbmp.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\plugins\imageformats\qwebp.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DWrite.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\d3d9.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_95bdb3a23d6478de\nvldumdx.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\crypt32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\cryptnet.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\wintrust.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\msasn1.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\imagehlp.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\cryptsp.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\rsaenh.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\bcrypt.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_95bdb3a23d6478de\nvd3dumx.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\igdumdim64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\igd9dxva64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\setupapi.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+线程 0x3ca0 已退出，返回值为 0 (0x0)。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\igdgmm64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_95bdb3a23d6478de\nvd3dumx.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_95bdb3a23d6478de\nvldumdx.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\setupapi.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\cfgmgr32.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\igd9dxva64.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\igdgmm64.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\igdumdim64.dll”
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\msctf.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\clbcatq.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DataExchange.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\dcomp.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\twinapi.appcore.dll”。无法查找或打开 PDB 文件。
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_95bdb3a23d6478de\nvldumdx.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_95bdb3a23d6478de\nvd3dumx.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\igdumdim64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\igd9dxva64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\setupapi.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\igdgmm64.dll”。无法查找或打开 PDB 文件。
+线程 0x3cb4 已退出，返回值为 0 (0x0)。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_95bdb3a23d6478de\nvd3dumx.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_95bdb3a23d6478de\nvldumdx.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\setupapi.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\cfgmgr32.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\igd9dxva64.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\igdgmm64.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\igdumdim64.dll”
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\AppXDeploymentClient.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_95bdb3a23d6478de\nvoglv64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\setupapi.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\devobj.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\ntmarta.dll”。无法查找或打开 PDB 文件。
+线程 0x3cb8 已退出，返回值为 0 (0x0)。
+线程 0x3cc0 已退出，返回值为 0 (0x0)。
+线程 0x3cbc 已退出，返回值为 0 (0x0)。
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DXCore.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\nvspcap64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\winsta.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\TextInputFramework.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\CoreMessaging.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\CoreUIComponents.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\WinTypes.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\WinTypes.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\WinTypes.dll”
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\WinTypes.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\WinTypes.dll”
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\comdlg32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.488_none_4238de57f6b64d28\comctl32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\propsys.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\dui70.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.488_none_ca04af081b815d21\comctl32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\duser.dll”。无法查找或打开 PDB 文件。
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\TextShaping.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\edputil.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\ExplorerFrame.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\WindowsCodecs.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\thumbcache.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\Windows.UI.FileExplorer.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\oleacc.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\ntshrui.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\sspicli.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\cscapi.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\xmllite.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\StructuredQuery.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\atlthunk.dll”。无法查找或打开 PDB 文件。
+线程 0x3da4 已退出，返回值为 0 (0x0)。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\Windows.StateRepositoryPS.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\Windows.FileExplorer.Common.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\iertutil.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\Windows.Storage.Search.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\coml2.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\p9np.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\linkinfo.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\drprov.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\ntlanman.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\davclnt.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\davhlpr.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\wkscli.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\apphelp.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\dlnashext.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\PlayToDevice.dll”。无法查找或打开 PDB 文件。
+onecore\com\combase\dcomrem\security.cxx(3057)\combase.dll!00007FFE6EC55CAC: (caller: 00007FFE17AE80AE) ReturnHr(1) tid(3dbc) 80010117 调用结束后，无法访问调用上下文。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\DevDispItemProvider.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\twinapi.dll”。无法查找或打开 PDB 文件。
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\actxprxy.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\MMDevAPI.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\wpdshext.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.685_none_faeca4db76168538\GdiPlus.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\PortableDeviceApi.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\EhStorShell.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\EhStorAPI.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(2) tid(3dc4) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(3) tid(3dc4) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(4) tid(3dc4) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\networkexplorer.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(5) tid(3dc4) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Program Files\Microsoft Office\root\Office16\GROOVEEX.DLL”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\msi.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Program Files\Microsoft Office\root\Office16\2052\GrooveIntlResource.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Program Files\Microsoft Office\root\Office16\2052\GrooveIntlResource.dll”
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Program Files\Microsoft Office\root\Office16\2052\GrooveIntlResource.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\AcSignIcon.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\mfc100u.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\msimg32.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\mfc100chs.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\mfc100chs.dll”
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\mfc100chs.dll”。模块已生成，不包含符号。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\cscui.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(6) tid(3c94) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(7) tid(3c94) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(8) tid(3c94) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(9) tid(3c94) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(10) tid(3dac) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(11) tid(3dac) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(12) tid(3dac) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(13) tid(3dac) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(14) tid(3c98) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(15) tid(3c98) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(16) tid(3c98) 8007045A 动态链接库(DLL)初始化例程失败。
+“CloudPointDisplayQt.exe”(Win32): 已加载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“D:\Program Files (x86)\DingDing\Shell\ShellExtension_x64.dll”
+onecore\com\combase\objact\dllcache.cxx(2132)\combase.dll!00007FFE6ED499C6: (caller: 00007FFE6EC50CFA) ReturnHr(17) tid(3c98) 8007045A 动态链接库(DLL)初始化例程失败。
+Qt VS Tools: QML debug: Debugging project 'CloudPointDisplayQt'...
+Qt VS Tools: QML debug: DISABLED: QML debugging disabled in Qt project settings
+线程 0x3e40 已退出，返回值为 0 (0x0)。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Program Files\Autodesk\Inventor Fusion 2013\AcSignCore16.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已加载“C:\Windows\System32\msvcp100.dll”。无法查找或打开 PDB 文件。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\xmllite.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.685_none_faeca4db76168538\GdiPlus.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\wpdshext.dll”
+线程 0x3da0 已退出，返回值为 0 (0x0)。
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\twinapi.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\oleacc.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\Windows.UI.FileExplorer.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\ExplorerFrame.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll”
+“CloudPointDisplayQt.exe”(Win32): 已卸载“C:\Windows\System32\comdlg32.dll”
+线程 0x3cd4 已退出，返回值为 0 (0x0)。
+线程 0x3dbc 已退出，返回值为 0 (0x0)。
+线程 0x3d98 已退出，返回值为 0 (0x0)。
+线程 0x3cd0 已退出，返回值为 0 (0x0)。
+线程 0x3cc4 已退出，返回值为 0 (0x0)。
+线程 0x3da8 已退出，返回值为 0 (0x0)。
+线程 0x3cac 已退出，返回值为 0 (0x0)。
+线程 0x3c9c 已退出，返回值为 0 (0x0)。
+线程 0x3ca8 已退出，返回值为 0 (0x0)。
+线程 0x3c98 已退出，返回值为 0 (0x0)。
+线程 0x3dc4 已退出，返回值为 0 (0x0)。
+线程 0x3c38 已退出，返回值为 0 (0x0)。
+线程 0x3db0 已退出，返回值为 0 (0x0)。
+线程 0x3db4 已退出，返回值为 0 (0x0)。
+线程 0x3db8 已退出，返回值为 0 (0x0)。
+线程 0x3c34 已退出，返回值为 0 (0x0)。
+线程 0x3dd4 已退出，返回值为 0 (0x0)。
+线程 0x3dac 已退出，返回值为 0 (0x0)。
+线程 0x3cc8 已退出，返回值为 0 (0x0)。
+线程 0x3ca4 已退出，返回值为 0 (0x0)。
+线程 0x3c3c 已退出，返回值为 0 (0x0)。
+线程 0x3c94 已退出，返回值为 0 (0x0)。
+程序“[4028] CloudPointDisplayQt.exe”已退出，返回值为 0 (0x0)。
